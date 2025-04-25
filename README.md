@@ -2,6 +2,8 @@
 
 Scripts for the game Pockie Ninja (pockieninja.online)
 
+MY IGN :1stMerro
+
 ## Download
 The script file is available in a password-protected ZIP archive.
 
