@@ -19,6 +19,8 @@ These scripts are designed to enhance your gaming experience by adding automatio
 
 The script files are distributed inside a **password-protected ZIP archive** for authorized use only.
 
+Bot auto farm tb event 24/7 :
+
 👉 [**Download autofarm-tb-event.zip**](./autofarm-tb-event.zip)
 
 ---
