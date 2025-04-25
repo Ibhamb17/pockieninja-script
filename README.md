@@ -10,7 +10,7 @@ The script file is available in a password-protected ZIP archive.
 [Download autofarm-tb-event.zip](https://github.com/Ibhamb17/pockieninja-script/raw/main/autofarm-tb-event.zip)
 
 ## How to Access
-To request the password for the ZIP file, please send an email to:
+To request the password for the ZIP file, make sure u have permission from devs to use it then send an email to:
 **bathsyiibham@gmail.com**
 with the subject:
 `Request Password Autofarm-tb`
