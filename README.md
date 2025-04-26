@@ -31,7 +31,7 @@ To request the password for the ZIP file:
 1. Ensure you have permission from the game developers to use these scripts.
 2. Send an email to **bathsyiibham@gmail.com** with the subject:
 
-
+"Request password for bot autofarm tb 24/7"
 
 The password will only be provided to eligible players.
 
